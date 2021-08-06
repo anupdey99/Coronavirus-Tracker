@@ -1,0 +1,28 @@
+
+GET {{baseUrl}}/cases
+Authorization: Bearer {{accessToken}}
+Accept: application/json
+
+###
+
+GET {{baseUrl}}/casesSuspected
+Authorization: Bearer {{accessToken}}
+Accept: application/json
+
+###
+
+GET {{baseUrl}}/casesConfirmed
+Authorization: Bearer {{accessToken}}
+Accept: application/json
+
+###
+
+GET {{baseUrl}}/deaths
+Authorization: Bearer {{accessToken}}
+Accept: application/json
+
+###
+
+GET {{baseUrl}}/recovered
+Authorization: Bearer {{accessToken}}
+Accept: application/json
