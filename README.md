@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/anupdey99/Coronavirus-Tracker">
-    <img src="screenshot/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://raw.githubusercontent.com/anupdey99/Coronavirus-Tracker/master/screenshot/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Coronavirus Tracker</h3>
