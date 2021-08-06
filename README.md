@@ -1,8 +1,16 @@
+<p align="center">
+  <a href="https://github.com/anupdey99/Coronavirus-Tracker">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
-# Coronavirus Tracker
+  <h3 align="center">Coronavirus Tracker</h3>
 
-Global data about the Coronavirus outbreak powered by nCoV 2019 health API.
-
+  <p align="center">
+    Global data about the Coronavirus outbreak powered by nCoV 2019 health API!
+    <br />
+    
+  </p>
+</p>
 
 ## Screenshots
 
